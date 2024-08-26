@@ -1,0 +1,4 @@
+ID: second-product
+ Title: A bike
+ Description: A beatifull bike
+ Price: 99.3
